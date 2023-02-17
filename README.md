@@ -4,4 +4,4 @@
 - Technologies Used - html, css , Scss , Responsive , Bootstrap , js
 - Role - Frontend
 • How to reach me : with [instagram](https://instagram.com/yasamansoltani.web)
-◦ - [Demo Project](https://github.com/yasamansoltani.github.io/mYPortfolioWebsite/)
+◦ - [Demo Project](https://yasamansoltani.github.io/personal-website/)
